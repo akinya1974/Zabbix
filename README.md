@@ -31,6 +31,7 @@ git push
 ![Вход](https://github.com/akinya1974/Zabbix/blob/main/jpg/Вход%20Zabbix.jpg)
 
 
+![zabbix](https://github.com/akinya1974/Zabbix/blob/main/jpg/Zabbix.jpg)
 
 ### Задание 2
 
