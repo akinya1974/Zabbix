@@ -7,6 +7,7 @@
 2. `Авторизовался`
 
 ### Коммнады GIT
+'''
 git init
 git add README.md
 git commit -m "first commit"
@@ -14,8 +15,12 @@ git branch -M main
 git remote add origin https://github.com/akinya1974/Zabbix.git
 git push -u origin main
 
+ git pull
 
+git commit -a -m "Add file"
 
+git push
+'''
 
 
 ![Вход](https://github.com/akinya1974/Zabbix/blob/main/jpg/Вход%20Zabbix.jpg)
