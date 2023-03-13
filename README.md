@@ -38,6 +38,17 @@ git push
 1. 'Подключил агенты к серверу'
 2. 'Посмотрел мониторинг'
 
+### Коммнады GIT
+'''
+git pull
+
+git commit -a -m "Add file task-2"
+
+git commit -a -m "Add git commandes"
+
+git push
+'''
+
 ![Подключил агенты](https://github.com/akinya1974/Zabbix/blob/main/jpg/Подключил%20Агенты.jpg)
 
 ![Агент1](https://github.com/akinya1974/Zabbix/blob/main/jpg/Данные%20Агент1.jpg)
