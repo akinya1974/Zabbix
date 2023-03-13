@@ -35,10 +35,15 @@ git push
 
 ### Задание 2
 
-1. 'Склонировал репозиторий на локальную машину'
+1. 'Подключил агенты к серверу'
+2. 'Посмотрел мониторинг'
 
-![Запушил проект]()
+![Подключил агенты](https://github.com/akinya1974/Zabbix/blob/main/jpg/Подключил%20Агенты.jpg)
 
-![Запуcк пайплайна]()
+![Агент1](https://github.com/akinya1974/Zabbix/blob/main/jpg/Данные%20Агент1.jpg)
+
+![Агент2](https://github.com/akinya1974/Zabbix/blob/main/jpg/Данные%20Агент2.jpg)
+
+![Логи](https://github.com/akinya1974/Zabbix/blob/main/jpg/Логи.jpg)
 
 
